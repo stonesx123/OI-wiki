@@ -6,7 +6,7 @@
 
 #### 定义
 
-Stern–Brocot 树是一种维护分数的优雅的结构，包含所有不同的正有理数。这个结构由 Moritz Stern 在 1858 年和 Achille Brocot 在 1861 年发现。
+Stern–Brocot 树是一种维护分数的结构，包含所有不同的正有理数。这个结构由 Moritz Stern 在 1858 年和 Achille Brocot 在 1861 年发现。
 
 #### 解释
 
